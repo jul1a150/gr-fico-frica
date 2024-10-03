@@ -4,9 +4,9 @@
 
     --cor-de-fundo: #b36b1a;
     --cor-principal: #a36021;
-    --cor-secundaria: #ce7f35;
+    --cor-secundaria: #000000;
     --fonte: "Sofadi One", system-ui;
-    --cor-barra: rgb(0, 0, 0);
+    --cor-barra: rgb(255, 255, 255);
 }
 
 body {
